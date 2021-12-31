@@ -1,2 +1,3 @@
 # qcag
-SAMPLE
+
+some updates from notepad
